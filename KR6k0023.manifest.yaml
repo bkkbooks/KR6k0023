@@ -1,0 +1,2284 @@
+canonical_identifier: bkk:krp/KR6k0023/v1
+canonical_location: https://kanripo.org/bkk/KR6k0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 根本說一切有部毘奈耶
+  identifiers:
+    alt_id:
+    - T23n1442
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T23/T23n1442.xml
+    old_id: T23n1442
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit6
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 聖
+  label: 聖
+  source_xml_id: wit7
+- short: 聖乙
+  label: 聖乙
+  source_xml_id: wit8
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0023_000.yaml, hash: 'sha256:e65328211a106760063e3e43fa5af1d6314388f88124bbb0558cb4017ecaaf03'}
+  - {seq: 1, filename: KR6k0023_001.yaml, hash: 'sha256:9de4a684bc0eaa5b644302bf6efbc5547e46d28174e67fb17de6129405a5c7b0'}
+  - {seq: 2, filename: KR6k0023_002.yaml, hash: 'sha256:2fb1ff5b7714f840612de0ff1bc7b7af83c73449e721b84328b0e6b3c540a0b8'}
+  - {seq: 3, filename: KR6k0023_003.yaml, hash: 'sha256:fed59ce6ce67438751ddcb2023f318930cca0496734dfb86e1672329a1493a0e'}
+  - {seq: 4, filename: KR6k0023_004.yaml, hash: 'sha256:4eca70c047c99d16594eaef98b214308ca3f4328c8afe824ae8e1f382bc05590'}
+  - {seq: 5, filename: KR6k0023_005.yaml, hash: 'sha256:899804770d53fc98ea6ce60e135721af05d690110fb8e59f4eef64c4f58d2ac2'}
+  - {seq: 6, filename: KR6k0023_006.yaml, hash: 'sha256:827aef4e9e6de61ee07c8e4b327ca8d7b669541ea57442d2b4996b221a37ba03'}
+  - {seq: 7, filename: KR6k0023_007.yaml, hash: 'sha256:ccfd57dba988a77815bdbd94042a2c9e833ef2c2b075e4ea34b17670e4acc0d6'}
+  - {seq: 8, filename: KR6k0023_008.yaml, hash: 'sha256:f0a992ba8f5bf94773889f9a992d1e31a52cc131925ee9d46bd5e3ea6ca59570'}
+  - {seq: 9, filename: KR6k0023_009.yaml, hash: 'sha256:b46925e530d67b69e5a8a5c6b08d8667f2d808315902deb6869b932093af1fc0'}
+  - {seq: 10, filename: KR6k0023_010.yaml, hash: 'sha256:170e14b1f62839fcb77a801f034b40e5252b49d0ea72b14f554a1b22645d9394'}
+  - {seq: 11, filename: KR6k0023_011.yaml, hash: 'sha256:c6c41be3018ebf22c4a08740902e6688a0a0da465105ee9e538efc245c320cb2'}
+  - {seq: 12, filename: KR6k0023_012.yaml, hash: 'sha256:b9c33fec1855552c4c06b095624da47586737c99b26c80d86d5ce3747c9daa6d'}
+  - {seq: 13, filename: KR6k0023_013.yaml, hash: 'sha256:86d9da9cdfd6df4d20be5aefeb4dbd523bdfae3a175e75036691c770a6127dbd'}
+  - {seq: 14, filename: KR6k0023_014.yaml, hash: 'sha256:232d758a79316725bbe3865b4f92b7223935897018cd068b8157f3d6b88085d9'}
+  - {seq: 15, filename: KR6k0023_015.yaml, hash: 'sha256:9afe03d0fa8608c2b517d0118404afe9ae634cde5adb5a79bd9ca4fdcfe6c052'}
+  - {seq: 16, filename: KR6k0023_016.yaml, hash: 'sha256:6ad4c0f48f240d85a5e538f7a16f356e84b9d0e67591d3367fbf722ad631d765'}
+  - {seq: 17, filename: KR6k0023_017.yaml, hash: 'sha256:962861e134309bcf9a450707ed602b9dc21719d84c0990b6762556ecf05b1e96'}
+  - {seq: 18, filename: KR6k0023_018.yaml, hash: 'sha256:b2a9382c7c507e356e35e6b38e4fb64c88a2c01390f376ead7628daebaafed96'}
+  - {seq: 19, filename: KR6k0023_019.yaml, hash: 'sha256:96affb2557d7a5048ba48b54db1908f8648be01dd4be50bc60453cad76b123c8'}
+  - {seq: 20, filename: KR6k0023_020.yaml, hash: 'sha256:ff8341f76dbc309bf9d77f3cc1e4e427f9fedf5401276b65f79e4a4d6c83c79a'}
+  - {seq: 21, filename: KR6k0023_021.yaml, hash: 'sha256:874dc59885c5b8af0c971b09e9573108f1039a75a932213e68823e7fd15fad6d'}
+  - {seq: 22, filename: KR6k0023_022.yaml, hash: 'sha256:ff01ee09b97da002add552fc42d02225ffd02e3159ff0ccc8ce1bd1340ecd151'}
+  - {seq: 23, filename: KR6k0023_023.yaml, hash: 'sha256:f5e39791c856dca578f5cd33cb7632e83accdc8f457d5baa7232bef4f2de7421'}
+  - {seq: 24, filename: KR6k0023_024.yaml, hash: 'sha256:102664e31d34107260e67ac8a106cea20a1062dd7013ae4a0017e728a8d0b5c6'}
+  - {seq: 25, filename: KR6k0023_025.yaml, hash: 'sha256:5c089e1cdd135f5637ecfd0d0684e816733f7914163e9a376bfe89518638cfd4'}
+  - {seq: 26, filename: KR6k0023_026.yaml, hash: 'sha256:bdacc244ffb64d646f8a76b33531ed9e145ed901e74e7b180f31117831521c98'}
+  - {seq: 27, filename: KR6k0023_027.yaml, hash: 'sha256:b253adcf5a4102892bb07466414f4696e499f969858009be57b1d8ea1d84ba47'}
+  - {seq: 28, filename: KR6k0023_028.yaml, hash: 'sha256:4fbf5951caad64e096f71f0b868865cc059a1c877940f48bbd7722f56cd388c2'}
+  - {seq: 29, filename: KR6k0023_029.yaml, hash: 'sha256:d69a65d2dd3e48b85272c379accc70344ac0c39ea510f117832c6cd20517f87e'}
+  - {seq: 30, filename: KR6k0023_030.yaml, hash: 'sha256:7b2915a105f9e6d76f4c1860af0bd54528d7b1386d0e28e8c672a68e154e5237'}
+  - {seq: 31, filename: KR6k0023_031.yaml, hash: 'sha256:f6cf6a4b3c6579cb060053e4dca6e8dc5dc5cf90cda786923eb189bb609a4b59'}
+  - {seq: 32, filename: KR6k0023_032.yaml, hash: 'sha256:eaaf8a6239ac699d7ec57fad88c0c075aa17f455b53df0319cc002099c699b57'}
+  - {seq: 33, filename: KR6k0023_033.yaml, hash: 'sha256:40abf96a25c9ed66bb5b223e52e77a3f1433703fc8ab59f6fc4e21dddde5a69f'}
+  - {seq: 34, filename: KR6k0023_034.yaml, hash: 'sha256:6ede505778a46739e1a2379c06cf525714bd7d4248a0aea3b81f6f2ccea62e13'}
+  - {seq: 35, filename: KR6k0023_035.yaml, hash: 'sha256:d286b950b99e932ac53253bc0293a15f78112447ebcb9991a73adad006cd7c4b'}
+  - {seq: 36, filename: KR6k0023_036.yaml, hash: 'sha256:987fdab6f10547e1695acd61f219fd2b9029d18e9ec338ba7db67b3fa07cbb41'}
+  - {seq: 37, filename: KR6k0023_037.yaml, hash: 'sha256:59ddb6a9e46e16cea3d14ea24af2cbf5bafe951463034145c3c4b84028f87cd1'}
+  - {seq: 38, filename: KR6k0023_038.yaml, hash: 'sha256:a349e563baf9581827eaa0eb277291c602592c170daf77fbfc17daeece8bdb50'}
+  - {seq: 39, filename: KR6k0023_039.yaml, hash: 'sha256:b230ead58d96f313a3480fdb1b64dd1d45448ae98c54029e6b1894c21329cbc8'}
+  - {seq: 40, filename: KR6k0023_040.yaml, hash: 'sha256:e89c21d5e0d6a96677f42ae22af0e6b09e214d3e14224f2d828593bc7c5138d7'}
+  - {seq: 41, filename: KR6k0023_041.yaml, hash: 'sha256:fa159dd56e7b251de380975496cde5aa5582c85f7801d59a7fc5b98829f0327a'}
+  - {seq: 42, filename: KR6k0023_042.yaml, hash: 'sha256:329135375d0a62a13b96aa26c506a4666454835479eae8e65777bec57aa9bba0'}
+  - {seq: 43, filename: KR6k0023_043.yaml, hash: 'sha256:c0dbf4a7da378b9e74ef09ed8685591b8ad91ed7173a6680b029990946211181'}
+  - {seq: 44, filename: KR6k0023_044.yaml, hash: 'sha256:402652acaeee63edfac706b82aae16fc836c4f7c38266f63ab5a61d08d6f811a'}
+  - {seq: 45, filename: KR6k0023_045.yaml, hash: 'sha256:8f45481fee36c7d6bb2316d6e43de6c69cc847767e06c163119232b43a8e9487'}
+  - {seq: 46, filename: KR6k0023_046.yaml, hash: 'sha256:6d56c45b141ecccc45af6eca06b9abceaeefb692197fb54c60af8b23de0c2a80'}
+  - {seq: 47, filename: KR6k0023_047.yaml, hash: 'sha256:de5229836c6295e2717e8b657c3bf8fedfc86a67d0c214316e4c8719a16d84e6'}
+  - {seq: 48, filename: KR6k0023_048.yaml, hash: 'sha256:05963d31acae48389fb8ee6017a78fb8eb153931515bdac6429dc7fd5c01f637'}
+  - {seq: 49, filename: KR6k0023_049.yaml, hash: 'sha256:34cbe7c8db8bf62dcd5aae8ac26fe6a9301a8e91a330c2aaac6b29603fa82b5c'}
+  - {seq: 50, filename: KR6k0023_050.yaml, hash: 'sha256:5fdb8543f927d61e60e99f17775875c520d0432a64e0e2c4cafd73835bb2a44a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0023_001.markers.yaml, hash: 'sha256:064e86be01e22f5dc71d807976c53545ae3f66b7ede3f45e6d5bfb1e8599254a'}
+  - {seq: 2, role: markers, filename: assets/KR6k0023_002.markers.yaml, hash: 'sha256:aa7cd59c9800c10c1e6405803c828e1373d069416c5310a0035c9d92dd4c1162'}
+  - {seq: 3, role: markers, filename: assets/KR6k0023_003.markers.yaml, hash: 'sha256:1bc802fe43dacb368a4ae6f481a8d800151b060d0791bc864976f225a9e2b495'}
+  - {seq: 4, role: markers, filename: assets/KR6k0023_004.markers.yaml, hash: 'sha256:4b362f7b3997f5e9b30a53f5266a53f8d03dc27ec1b08e7ba410a20c9f90b4cf'}
+  - {seq: 5, role: markers, filename: assets/KR6k0023_005.markers.yaml, hash: 'sha256:fcdd611803a718925134785e47d9f5787f290db2aae883bceac996b951e96a5c'}
+  - {seq: 6, role: markers, filename: assets/KR6k0023_006.markers.yaml, hash: 'sha256:3bad909ba10367d466f90de3d9478ba78c0438e6e5751adda37695cbcdf46f76'}
+  - {seq: 7, role: markers, filename: assets/KR6k0023_007.markers.yaml, hash: 'sha256:313bb976bb5d11c248a3fa6f25e0661f431779d702dd03bb47ce1fe2e7d3bca1'}
+  - {seq: 8, role: markers, filename: assets/KR6k0023_008.markers.yaml, hash: 'sha256:5d87b5fdc83b798ecdcbc47204b51cff96d5caaceffa4177dd7884cef2cf3aa9'}
+  - {seq: 9, role: markers, filename: assets/KR6k0023_009.markers.yaml, hash: 'sha256:60a8402b1d3343ebda3a537995093980c080c2d26e27805b504bdd14fb3c10b7'}
+  - {seq: 10, role: markers, filename: assets/KR6k0023_010.markers.yaml, hash: 'sha256:835ce5dd216948a474ece80d88d9846eae002fab8cc7d31e8a4df5e75c7a1f0b'}
+  - {seq: 11, role: markers, filename: assets/KR6k0023_011.markers.yaml, hash: 'sha256:72dba35c7e9f97d197a0492c8b97095f9cdfd3cf02e223b1a48677836e9621b4'}
+  - {seq: 12, role: markers, filename: assets/KR6k0023_012.markers.yaml, hash: 'sha256:5952abf194612a5f585fb956329d372f87f24b1bde810ea527019cdfdd309014'}
+  - {seq: 13, role: markers, filename: assets/KR6k0023_013.markers.yaml, hash: 'sha256:3b91f9e216b8d6d7be7725a3e86a6bb9db55587f715f993cfac1625d15f48bd1'}
+  - {seq: 14, role: markers, filename: assets/KR6k0023_014.markers.yaml, hash: 'sha256:0ca930e01330e142685de4e6010eaa36c132c5539298ab2b358112939aafb185'}
+  - {seq: 15, role: markers, filename: assets/KR6k0023_015.markers.yaml, hash: 'sha256:0ee934bbd7e170332124e25cb15e7ad590ec8cbf425de6170e25a237444c5f40'}
+  - {seq: 16, role: markers, filename: assets/KR6k0023_016.markers.yaml, hash: 'sha256:90c5576a417fea0e113f17c2aaa11f2b6db79c347b148cb1cc989e6639f9acaa'}
+  - {seq: 17, role: markers, filename: assets/KR6k0023_017.markers.yaml, hash: 'sha256:7fc531bb150c9783c5c112835cea94286a969027456bf88ced3bb18b58e68d58'}
+  - {seq: 18, role: markers, filename: assets/KR6k0023_018.markers.yaml, hash: 'sha256:9d60f83df4a66ed61bc8ea294e833de1c64c17000fd629eeaa3934438a484f42'}
+  - {seq: 19, role: markers, filename: assets/KR6k0023_019.markers.yaml, hash: 'sha256:e3178582131236671e22f5122142401a4db61511967ad942996bf1de1cb8d1f4'}
+  - {seq: 20, role: markers, filename: assets/KR6k0023_020.markers.yaml, hash: 'sha256:f090e7bc27a13eaf48b08ef0ea1ffef8a278559a2676b7b384d32d51f8e227ad'}
+  - {seq: 21, role: markers, filename: assets/KR6k0023_021.markers.yaml, hash: 'sha256:c0d0d2049824d2353fe96351c505b2727028ad1782d8a45a42b08b6add7cc22e'}
+  - {seq: 22, role: markers, filename: assets/KR6k0023_022.markers.yaml, hash: 'sha256:bc973c4300b263196096c30a8ce9e50d113c287a6ff913eefc91d4f1b25169ad'}
+  - {seq: 23, role: markers, filename: assets/KR6k0023_023.markers.yaml, hash: 'sha256:9341039c9d0298625adefb53e1112fc2a30d96b3a5f6b1ac583eef010ad9f5b3'}
+  - {seq: 24, role: markers, filename: assets/KR6k0023_024.markers.yaml, hash: 'sha256:77e318b23034054e1d315dc884b530771fe1156739b0762fcb4d9b77c27a5424'}
+  - {seq: 25, role: markers, filename: assets/KR6k0023_025.markers.yaml, hash: 'sha256:cfd07ec07e230171e831c5694ef2799951af55d8369b95de35a59e00a5a8b0cc'}
+  - {seq: 26, role: markers, filename: assets/KR6k0023_026.markers.yaml, hash: 'sha256:8b790595503561c818603df9a2482659cd4136eaec98d46189d983d98e9e53bc'}
+  - {seq: 27, role: markers, filename: assets/KR6k0023_027.markers.yaml, hash: 'sha256:a58cfe991e4e3683efb2c2bd346a0570db4d4d2e246b4cf9d392e2f47eaf84c9'}
+  - {seq: 28, role: markers, filename: assets/KR6k0023_028.markers.yaml, hash: 'sha256:5fe4ff2eb7c3e3f315518eadc7e13d1985260e0ea8a3591652c4fb4a591bc63f'}
+  - {seq: 29, role: markers, filename: assets/KR6k0023_029.markers.yaml, hash: 'sha256:b62a7b8566aecdb575402ca3e61a3679bdc29a9da54d5801ae2a8b7608bba920'}
+  - {seq: 30, role: markers, filename: assets/KR6k0023_030.markers.yaml, hash: 'sha256:c5eef6ed6ba0a7f6116caeab960bc9019a13e08b8bdba69b1211579105d08a2e'}
+  - {seq: 31, role: markers, filename: assets/KR6k0023_031.markers.yaml, hash: 'sha256:91f3e34bfd62fc884ba619a2890ed2f3ec3b28616fa7f9f830f987ac17a407c6'}
+  - {seq: 32, role: markers, filename: assets/KR6k0023_032.markers.yaml, hash: 'sha256:4e82087746041e8fcb9bd8b304c7d246ea0f2c03612b3bb5dfcf39a415c73003'}
+  - {seq: 33, role: markers, filename: assets/KR6k0023_033.markers.yaml, hash: 'sha256:0b9e954d292cecb4a3ff95b9f614de6126592caeffeb15d50fc3cb871c78c5a5'}
+  - {seq: 34, role: markers, filename: assets/KR6k0023_034.markers.yaml, hash: 'sha256:23440f1ba647ac09afc1674838115ea0753b9537520e4952f4acb22499601c39'}
+  - {seq: 35, role: markers, filename: assets/KR6k0023_035.markers.yaml, hash: 'sha256:e27058312fe1502d24fdab738870c6043595582b63935565b152b8426c02ec07'}
+  - {seq: 36, role: markers, filename: assets/KR6k0023_036.markers.yaml, hash: 'sha256:18769daf4b3b977acc900cb41fb590c8e68eb17434c2ac2b160047466895279d'}
+  - {seq: 37, role: markers, filename: assets/KR6k0023_037.markers.yaml, hash: 'sha256:b8982b0926e36c48b40d701067957ce698043e6cc202669ebfe41815b31ed0f2'}
+  - {seq: 38, role: markers, filename: assets/KR6k0023_038.markers.yaml, hash: 'sha256:0a25881e09b2dc8a9a8d9daa06bc93a0d8074745e5bea941861db6cb720dbf35'}
+  - {seq: 39, role: markers, filename: assets/KR6k0023_039.markers.yaml, hash: 'sha256:49eca66c09d120883ea577eb051e79fd466ec23b3db4c4276570025fd37c70d4'}
+  - {seq: 40, role: markers, filename: assets/KR6k0023_040.markers.yaml, hash: 'sha256:03c550a2da9a690f55fce67ac3d7ba7b23baea6ed31307bd051f44a80c57cb87'}
+  - {seq: 41, role: markers, filename: assets/KR6k0023_041.markers.yaml, hash: 'sha256:a8e0eb533fccf2808ed119ba8963787ff5abc1c3c1af06b7465a0580a5a00266'}
+  - {seq: 42, role: markers, filename: assets/KR6k0023_042.markers.yaml, hash: 'sha256:6e6d42537ee10e4a5bb6b0b4c9f21afe4653a16f501b8d8cdd5858cde2bcabdf'}
+  - {seq: 43, role: markers, filename: assets/KR6k0023_043.markers.yaml, hash: 'sha256:d1aeb78d994535340530e61af44754a599093d0e69360ebbf69bc4d4f5b266d8'}
+  - {seq: 44, role: markers, filename: assets/KR6k0023_044.markers.yaml, hash: 'sha256:ad1492f8a9a3d823a131537653ba7121af228a98eae5d7fb979077eb04418f0a'}
+  - {seq: 45, role: markers, filename: assets/KR6k0023_045.markers.yaml, hash: 'sha256:16325b482482fe7966c935200e621e97166e7fbdd9f2d0660ce25d8818e23799'}
+  - {seq: 46, role: markers, filename: assets/KR6k0023_046.markers.yaml, hash: 'sha256:a2b1b16e2e613466a02af64d9f2660976ce793c6c53b669f5ba70280ff1417fd'}
+  - {seq: 47, role: markers, filename: assets/KR6k0023_047.markers.yaml, hash: 'sha256:cb3fd65758896f29a1e4b7905cd57a7dd2efe90436dbf77e8b81748f2ec4117f'}
+  - {seq: 48, role: markers, filename: assets/KR6k0023_048.markers.yaml, hash: 'sha256:f946722854edae7d722b437b8ac5637af08339976c7e756c21d1fa0b47389012'}
+  - {seq: 49, role: markers, filename: assets/KR6k0023_049.markers.yaml, hash: 'sha256:d31375bd2d2102b25f1bcdb8072e99641c6c7ec2d9a1946eea56b2933e9cb4ef'}
+  - {seq: 50, role: markers, filename: assets/KR6k0023_050.markers.yaml, hash: 'sha256:40436f5b76217c225b302bd03b17a06f047148cd6c9ba11504a7848f0fa5e1ba'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0023_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7367
+  label: 根本說一切有部毘奈耶卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0023_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 毘奈耶序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0023_T_001-mulu-2
+    span:
+    - body
+    - 801
+    - 801
+  label: 1 四波羅市迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0023_T_001-mulu-3
+    span:
+    - body
+    - 825
+    - 825
+  label: 1 不淨行學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0023_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7948
+  label: 根本說一切有部毘奈耶卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0023_T_002-mulu-1
+    span:
+    - body
+    - 4668
+    - 4668
+  label: 2 不與取學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0023_T_002-mulu-2
+    span:
+    - body
+    - 4668
+    - 4668
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0023_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5809
+  label: 根本說一切有部毘奈耶卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0023_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6894
+  label: 根本說一切有部毘奈耶卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0023_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7604
+  label: 根本說一切有部毘奈耶卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0023_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7874
+  label: 根本說一切有部毘奈耶卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0023_T_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 3 斷人命學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0023_T_006-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0023_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7600
+  label: 根本說一切有部毘奈耶卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0023_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7107
+  label: 根本說一切有部毘奈耶卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0023_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8655
+  label: 根本說一切有部毘奈耶卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0023_T_009-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 4 妄說自得上人法學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0023_T_009-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0023_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7756
+  label: 根本說一切有部毘奈耶卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7441
+  label: '根本說一切有部毘奈耶卷
+
+    第十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 2 十三僧伽伐尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 故泄精學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-mulu-3
+    span:
+    - body
+    - 1828
+    - 1828
+  label: 2 觸女學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-mulu-4
+    span:
+    - body
+    - 4959
+    - 4959
+  label: 3 說鄙惡語學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0023_T_011-mulu-5
+    span:
+    - body
+    - 6611
+    - 6611
+  label: 4 索供養學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0023_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 7762
+  label: '根本說一切有部毘奈耶卷
+
+    第十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0023_T_012-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 5 媒嫁學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0023_T_012-mulu-2
+    span:
+    - body
+    - 3214
+    - 3214
+  label: 6 造小房學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0023_T_012-mulu-3
+    span:
+    - body
+    - 4707
+    - 4707
+  label: 7 造大寺學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0023_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 7321
+  label: '根本說一切有部毘奈耶卷
+
+    第十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0023_T_013-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 8 無根謗學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0023_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7481
+  label: '根本說一切有部毘奈耶卷
+
+    第十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0023_T_014-mulu-1
+    span:
+    - body
+    - 3862
+    - 3862
+  label: 9 假根謗學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0023_T_014-mulu-2
+    span:
+    - body
+    - 5021
+    - 5021
+  label: 10 破僧違諫學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0023_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 7381
+  label: '根本說一切有部毘奈耶卷第十
+
+    五'
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0023_T_015-mulu-1
+    span:
+    - body
+    - 3621
+    - 3621
+  label: 11 隨順破僧違諫學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0023_T_015-mulu-2
+    span:
+    - body
+    - 4270
+    - 4270
+  label: 12 污家學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0023_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 7136
+  label: '根本說一切有部毘奈耶卷
+
+    第十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0023_T_016-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 13 惡性違諫學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0023_T_016-mulu-2
+    span:
+    - body
+    - 4257
+    - 4257
+  label: 3 二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0023_T_016-mulu-3
+    span:
+    - body
+    - 5639
+    - 5639
+  label: 4 三十泥薩祇波逸底迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0023_T_016-mulu-4
+    span:
+    - body
+    - 5673
+    - 5673
+  label: 1 有長衣不分別學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0023_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 7386
+  label: '根本說一切有部毗奈耶卷
+
+    第十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0023_T_017-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 2 離三衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0023_T_017-mulu-2
+    span:
+    - body
+    - 3651
+    - 3651
+  label: 3 一月衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0023_T_017-mulu-3
+    span:
+    - body
+    - 5417
+    - 5417
+  label: 4 使非親尼浣故衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6k0023_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 8231
+  label: '根本說一切有部毘奈耶卷
+
+    第十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6k0023_T_018-mulu-1
+    span:
+    - body
+    - 6559
+    - 6559
+  label: 5 從非親尼取衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6k0023_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 8666
+  label: '根本說一切有部毘奈耶卷
+
+    第十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6k0023_T_019-mulu-1
+    span:
+    - body
+    - 6278
+    - 6278
+  label: 6 從非親居士乞衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 8702
+  label: '根本說一切有部毗奈耶卷第二
+
+    十'
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 7 過量乞衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-mulu-2
+    span:
+    - body
+    - 2225
+    - 2225
+  label: 8 知俗人共許與衣就乞學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-mulu-3
+    span:
+    - body
+    - 4370
+    - 4370
+  label: 9 知俗人別許與衣就乞學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-mulu-4
+    span:
+    - body
+    - 4554
+    - 4554
+  label: 10 過限索衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0023_T_020-mulu-5
+    span:
+    - body
+    - 8233
+    - 8233
+  label: 11 用野蠶絲作敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-juan-start
+    span:
+    - body
+    - 0
+    - 8210
+  label: '根本說一切有部毘奈耶卷第二
+
+    十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 12 用純黑羊毛作敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-2
+    span:
+    - body
+    - 340
+    - 340
+  label: 13 過分數作敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-3
+    span:
+    - body
+    - 673
+    - 673
+  label: 14 作減六年敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-4
+    span:
+    - body
+    - 1655
+    - 1655
+  label: 15 作新敷具不為壞色學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-5
+    span:
+    - body
+    - 2834
+    - 2834
+  label: 16 自擔負羊毛學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-6
+    span:
+    - body
+    - 4455
+    - 4455
+  label: 17 使非親尼治羊毛學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0023_T_021-mulu-7
+    span:
+    - body
+    - 5898
+    - 5898
+  label: 18 捉金銀等學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-juan-start
+    span:
+    - body
+    - 0
+    - 9248
+  label: '根本說一切有部毘奈耶卷第二
+
+    十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 19 出納求利學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-mulu-2
+    span:
+    - body
+    - 2784
+    - 2784
+  label: 20 販賣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-mulu-3
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 21 得長缽過十日不分別學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-mulu-4
+    span:
+    - body
+    - 3834
+    - 3834
+  label: 22 乞缽學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6k0023_T_022-mulu-5
+    span:
+    - body
+    - 6434
+    - 6434
+  label: 23 自乞縷使非親族織師織作衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6k0023_T_023-juan-start
+    span:
+    - body
+    - 0
+    - 9692
+  label: '根本說一切有部毘奈耶卷第二
+
+    十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6k0023_T_023-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 24 勸織師學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6k0023_T_023-mulu-2
+    span:
+    - body
+    - 2057
+    - 2057
+  label: 25 奪衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6k0023_T_023-mulu-3
+    span:
+    - body
+    - 3713
+    - 3713
+  label: 26 急難施衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6k0023_T_024-juan-start
+    span:
+    - body
+    - 0
+    - 7517
+  label: '根本說一切有部毗奈耶卷
+
+    第二十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6k0023_T_024-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 27 阿蘭若六夜學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6k0023_T_024-mulu-2
+    span:
+    - body
+    - 2709
+    - 2709
+  label: 28 預前求過後用雨浴衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6k0023_T_024-mulu-3
+    span:
+    - body
+    - 3117
+    - 3117
+  label: 29 迴眾物入己學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6k0023_T_024-mulu-4
+    span:
+    - body
+    - 6110
+    - 6110
+  label: 30 服過七日藥學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6k0023_T_025-juan-start
+    span:
+    - body
+    - 0
+    - 7489
+  label: '根本說一切有部毘奈耶卷
+
+    第二十五'
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6k0023_T_025-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 5 九十波逸底迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6k0023_T_025-mulu-2
+    span:
+    - body
+    - 65
+    - 65
+  label: 1 故妄語學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6k0023_T_025-mulu-3
+    span:
+    - body
+    - 4628
+    - 4628
+  label: 2 毀呰語學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6k0023_T_026-juan-start
+    span:
+    - body
+    - 0
+    - 8430
+  label: '根本說一切有部毘奈耶卷第二
+
+    十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6k0023_T_026-mulu-1
+    span:
+    - body
+    - 2374
+    - 2374
+  label: 3 離間語學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6k0023_T_026-mulu-2
+    span:
+    - body
+    - 5456
+    - 5456
+  label: 4 發舉學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6k0023_T_026-mulu-3
+    span:
+    - body
+    - 6100
+    - 6100
+  label: 5 獨與女人說法過五六語學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6k0023_T_026-mulu-4
+    span:
+    - body
+    - 7788
+    - 7788
+  label: 6 與未圓具人同句讀誦學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-juan-start
+    span:
+    - body
+    - 0
+    - 6950
+  label: '根本說一切有部毘奈耶卷第二
+
+    十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 7 向未圓具人說麤罪學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-mulu-2
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 8 實得上人法向未圓具人說學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-mulu-3
+    span:
+    - body
+    - 3367
+    - 3367
+  label: 9 謗迴眾利物學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-mulu-4
+    span:
+    - body
+    - 4205
+    - 4205
+  label: 10 輕呵戒學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6k0023_T_027-mulu-5
+    span:
+    - body
+    - 4979
+    - 4979
+  label: 11 壞生種學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6k0023_T_028-juan-start
+    span:
+    - body
+    - 0
+    - 8396
+  label: '根本說一切有部毘奈耶卷第二
+
+    十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6k0023_T_028-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 12 嫌毀輕賤學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6k0023_T_028-mulu-2
+    span:
+    - body
+    - 1413
+    - 1413
+  label: 13 違惱言教學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6k0023_T_028-mulu-3
+    span:
+    - body
+    - 3725
+    - 3725
+  label: 14 在露地安僧敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6k0023_T_029-juan-start
+    span:
+    - body
+    - 0
+    - 7663
+  label: '根本說一切有部毘奈耶卷第二
+
+    十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6k0023_T_029-mulu-1
+    span:
+    - body
+    - 908
+    - 908
+  label: 15 不舉草敷具學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6k0023_T_029-mulu-2
+    span:
+    - body
+    - 3946
+    - 3946
+  label: 16 強牽苾芻出僧房學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6k0023_T_029-mulu-3
+    span:
+    - body
+    - 5290
+    - 5290
+  label: 17 強惱觸他學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-juan-start
+    span:
+    - body
+    - 0
+    - 8060
+  label: '根本說一切有部毘奈耶卷第三
+
+    十'
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 18 故放身坐臥脫腳床學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-mulu-2
+    span:
+    - body
+    - 1171
+    - 1171
+  label: 19 用蟲水學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-mulu-3
+    span:
+    - body
+    - 1618
+    - 1618
+  label: 20 造大寺過限學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-mulu-4
+    span:
+    - body
+    - 5108
+    - 5108
+  label: 21 眾不差教授苾芻尼學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6k0023_T_030-mulu-5
+    span:
+    - body
+    - 5108
+    - 5108
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6k0023_T_031-juan-start
+    span:
+    - body
+    - 0
+    - 7972
+  label: '根本說一切有部毘奈耶卷第三
+
+    十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6k0023_T_032-juan-start
+    span:
+    - body
+    - 0
+    - 8078
+  label: '根本說一切有部毘奈耶卷第三
+
+    十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6k0023_T_032-mulu-1
+    span:
+    - body
+    - 5810
+    - 5810
+  label: 22 教授苾芻尼至日暮學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6k0023_T_032-mulu-2
+    span:
+    - body
+    - 6745
+    - 6745
+  label: 23 謗他為飲食故教授苾芻尼學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6k0023_T_032-mulu-3
+    span:
+    - body
+    - 7372
+    - 7372
+  label: 24 與非親苾芻尼衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-juan-start
+    span:
+    - body
+    - 0
+    - 7529
+  label: '根本說一切有部毘奈耶卷第三
+
+    十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 25 與非親苾芻尼作衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-2
+    span:
+    - body
+    - 837
+    - 837
+  label: 26 與苾芻尼同道行學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-3
+    span:
+    - body
+    - 2271
+    - 2271
+  label: 27 與苾芻尼同乘一船學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-4
+    span:
+    - body
+    - 2853
+    - 2853
+  label: 28 獨與女人在屏處坐學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-5
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 29 與苾芻尼屏處坐學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6k0023_T_033-mulu-6
+    span:
+    - body
+    - 3959
+    - 3959
+  label: 30 知苾芻尼讚歎得食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6k0023_T_034-juan-start
+    span:
+    - body
+    - 0
+    - 7489
+  label: '根本說一切有部毘奈耶卷第三
+
+    十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6k0023_T_034-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 31 展轉食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6k0023_T_035-juan-start
+    span:
+    - body
+    - 0
+    - 7276
+  label: '根本說一切有部毘奈耶卷第三
+
+    十五'
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6k0023_T_035-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 32 施一食處過受學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6k0023_T_035-mulu-2
+    span:
+    - body
+    - 4719
+    - 4719
+  label: 33 過三缽受食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-juan-start
+    span:
+    - body
+    - 0
+    - 8909
+  label: '根本說一切有部毘奈耶卷第三
+
+    十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 34 足食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-2
+    span:
+    - body
+    - 2210
+    - 2210
+  label: 35 勸他足食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-3
+    span:
+    - body
+    - 3209
+    - 3209
+  label: 36 別眾食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-4
+    span:
+    - body
+    - 4555
+    - 4555
+  label: 37 非時食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-5
+    span:
+    - body
+    - 5231
+    - 5231
+  label: 38 食曾觸食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6k0023_T_036-mulu-6
+    span:
+    - body
+    - 5785
+    - 5785
+  label: 39 不受食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-juan-start
+    span:
+    - body
+    - 0
+    - 8166
+  label: '根本說一切有部毘奈耶卷第三
+
+    十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 40 索美食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-2
+    span:
+    - body
+    - 1369
+    - 1369
+  label: 41 受用蟲水學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-3
+    span:
+    - body
+    - 1761
+    - 1761
+  label: 42 知有食家強坐學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-4
+    span:
+    - body
+    - 2277
+    - 2277
+  label: 43 知有食家強立學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-5
+    span:
+    - body
+    - 2594
+    - 2594
+  label: 44 與無衣外道男女食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-6
+    span:
+    - body
+    - 5127
+    - 5127
+  label: 45 觀軍學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-7
+    span:
+    - body
+    - 6135
+    - 6135
+  label: 46 軍中過二宿學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-8
+    span:
+    - body
+    - 6982
+    - 6982
+  label: 47 擾亂軍兵學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6k0023_T_037-mulu-9
+    span:
+    - body
+    - 7649
+    - 7649
+  label: 48 打苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-juan-start
+    span:
+    - body
+    - 0
+    - 7344
+  label: '根本說一切有部毘奈耶卷第三
+
+    十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 49 擬手向苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-mulu-2
+    span:
+    - body
+    - 307
+    - 307
+  label: 50 覆藏他罪學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-mulu-3
+    span:
+    - body
+    - 1204
+    - 1204
+  label: 51 共至俗家不與食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-mulu-4
+    span:
+    - body
+    - 2265
+    - 2265
+  label: 52 觸火學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6k0023_T_038-mulu-5
+    span:
+    - body
+    - 6466
+    - 6466
+  label: 53 與欲已更遮學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-juan-start
+    span:
+    - body
+    - 0
+    - 9395
+  label: '根本說一切有部毘奈耶卷第三
+
+    十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 54 與未近圓人同室宿過二夜學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-mulu-2
+    span:
+    - body
+    - 2653
+    - 2653
+  label: 55 不捨惡見違諫學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-mulu-3
+    span:
+    - body
+    - 3832
+    - 3832
+  label: 56 隨捨置人學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-mulu-4
+    span:
+    - body
+    - 4192
+    - 4192
+  label: 57 攝受惡見不捨求寂學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6k0023_T_039-mulu-5
+    span:
+    - body
+    - 6090
+    - 6090
+  label: 58 著不壞色衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-juan-start
+    span:
+    - body
+    - 0
+    - 7475
+  label: '根本說一切有部毘奈耶卷第四
+
+    十'
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 59 捉寶學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-2
+    span:
+    - body
+    - 2587
+    - 2587
+  label: 60 非時洗浴學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-3
+    span:
+    - body
+    - 3534
+    - 3534
+  label: 61 殺傍生學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-4
+    span:
+    - body
+    - 3983
+    - 3983
+  label: 62 故惱苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-5
+    span:
+    - body
+    - 4970
+    - 4970
+  label: 63 以指擊擽學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-6
+    span:
+    - body
+    - 5232
+    - 5232
+  label: 64 水中戲學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6k0023_T_040-mulu-7
+    span:
+    - body
+    - 6002
+    - 6002
+  label: 65 與女人同室宿學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-juan-start
+    span:
+    - body
+    - 0
+    - 7993
+  label: '根本說一切有部毘奈耶卷第四
+
+    十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 66 恐怖苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-2
+    span:
+    - body
+    - 664
+    - 664
+  label: 67 藏他苾芻等衣缽學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-3
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 68 受他寄衣不問主輒著學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-4
+    span:
+    - body
+    - 1633
+    - 1633
+  label: 69 以眾教罪謗清淨苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-5
+    span:
+    - body
+    - 2448
+    - 2448
+  label: 70 與女人同道行學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-6
+    span:
+    - body
+    - 2941
+    - 2941
+  label: 71 與賊同行學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-7
+    span:
+    - body
+    - 3318
+    - 3318
+  label: 72 與減年者受近圓學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-8
+    span:
+    - body
+    - 4677
+    - 4677
+  label: 73 壞生地學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-9
+    span:
+    - body
+    - 5275
+    - 5275
+  label: 74 過四月索食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-10
+    span:
+    - body
+    - 6575
+    - 6575
+  label: 75 遮傳教學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6k0023_T_041-mulu-11
+    span:
+    - body
+    - 7192
+    - 7192
+  label: 76 默聽鬥諍學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6k0023_T_042-juan-start
+    span:
+    - body
+    - 0
+    - 5914
+  label: '根本說一切有部毘奈耶卷第四
+
+    十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6k0023_T_042-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 77 不與欲默然起去學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6k0023_T_042-mulu-2
+    span:
+    - body
+    - 542
+    - 542
+  label: 78 不恭敬學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6k0023_T_042-mulu-3
+    span:
+    - body
+    - 865
+    - 865
+  label: 79 飲酒學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6k0023_T_042-mulu-4
+    span:
+    - body
+    - 5140
+    - 5140
+  label: 80 非時入聚落不囑授苾芻學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6k0023_T_043-juan-start
+    span:
+    - body
+    - 0
+    - 8065
+  label: '根本說一切有部毘奈耶卷第四
+
+    十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6k0023_T_043-mulu-1
+    span:
+    - body
+    - 7231
+    - 7231
+  label: 81 食前食後行詣餘家不囑授學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6k0023_T_044-juan-start
+    span:
+    - body
+    - 0
+    - 7060
+  label: '根本說一切有部毘奈耶卷第四
+
+    十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6k0023_T_044-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 82 入王宮門學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6k0023_T_044-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6k0023_T_045-juan-start
+    span:
+    - body
+    - 0
+    - 8315
+  label: '根本說一切有部毘奈耶卷第四
+
+    十五'
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6k0023_T_046-juan-start
+    span:
+    - body
+    - 0
+    - 8364
+  label: '根本說一切有部毘奈耶卷第四
+
+    十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6k0023_T_047-juan-start
+    span:
+    - body
+    - 0
+    - 6654
+  label: '根本說一切有部毘奈耶卷第四
+
+    十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6k0023_T_048-juan-start
+    span:
+    - body
+    - 0
+    - 6661
+  label: '根本說一切有部毘奈耶卷第四
+
+    十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-juan-start
+    span:
+    - body
+    - 0
+    - 8468
+  label: '根本說一切有部毘奈耶卷第四
+
+    十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 83 詐言不知學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-2
+    span:
+    - body
+    - 442
+    - 442
+  label: 84 作針筒學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-3
+    span:
+    - body
+    - 914
+    - 914
+  label: 85 作過量床學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-4
+    span:
+    - body
+    - 2336
+    - 2336
+  label: 86 用草木綿貯床學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-5
+    span:
+    - body
+    - 2619
+    - 2619
+  label: 87 過量作尼師但那學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-6
+    span:
+    - body
+    - 3079
+    - 3079
+  label: 88 作覆瘡衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-7
+    span:
+    - body
+    - 3202
+    - 3202
+  label: 89 作雨浴衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-8
+    span:
+    - body
+    - 4372
+    - 4372
+  label: 90 同佛衣量作衣學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-9
+    span:
+    - body
+    - 4560
+    - 4560
+  label: 6 四波羅底提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-10
+    span:
+    - body
+    - 4591
+    - 4591
+  label: 1 從非親尼受食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6k0023_T_049-mulu-11
+    span:
+    - body
+    - 7811
+    - 7811
+  label: 2 受苾芻尼指授食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6k0023_T_050-juan-start
+    span:
+    - body
+    - 0
+    - 6466
+  label: '根本說一切有部毘奈耶卷第五
+
+    十'
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6k0023_T_050-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 3 學家受食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6k0023_T_050-mulu-2
+    span:
+    - body
+    - 1183
+    - 1183
+  label: 4 阿蘭若住處外受食學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6k0023_T_050-mulu-3
+    span:
+    - body
+    - 2031
+    - 2031
+  label: 7 眾多學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6k0023_T_050-mulu-4
+    span:
+    - body
+    - 5824
+    - 5824
+  label: 8 七滅諍法
+  type: mulu
+  level: 1
+hash: sha256:141d668815ee6dcf5afe640f86359b45b5f8b5fab870d0db8a1965b12ee6fee7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

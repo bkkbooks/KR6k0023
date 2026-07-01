@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0023/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毘奈耶
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T23/T23n1442.xml
+    old_id: T23n1442
+hash: sha256:e65328211a106760063e3e43fa5af1d6314388f88124bbb0558cb4017ecaaf03
